@@ -1,6 +1,6 @@
 # Doop on Railway: open-source multiplayer design canvas (Paper.design alternative)
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PLACEHOLDER)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/DZGXCH)
 
 [Doop](https://github.com/kgoedecke/doop) (AGPL-3.0, by Kevin Goedecke) is a multiplayer design canvas where people and AI agents design together: frames, components, comments, a resident AI design team, and an MCP server so Claude Code, Cursor or ChatGPT can design on your canvas. This template runs it the way upstream's `docker compose up` does: Doop + Postgres 16, with uploads kept on a volume.
 
