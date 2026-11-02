@@ -9,5 +9,4 @@ COPY --chmod=755 railway/railway-start.mjs /app/railway-start.mjs
 ENV NODE_ENV=production \
     PORT=4400 \
     DOOP_RAILWAY_DB_WAIT_SECONDS=180
-VOLUME ["/app/data"]
 CMD ["node", "/app/railway-start.mjs"]
